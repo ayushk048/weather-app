@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.38cf1bcc.chunk.css",
-    "main.js": "/static/js/main.e0551201.chunk.js",
-    "main.js.map": "/static/js/main.e0551201.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc937f93.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc937f93.js.map",
-    "static/js/2.eab6bace.chunk.js": "/static/js/2.eab6bace.chunk.js",
-    "static/js/2.eab6bace.chunk.js.map": "/static/js/2.eab6bace.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ea709d96754e72db9ff83dd05e060808.js": "/precache-manifest.ea709d96754e72db9ff83dd05e060808.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.38cf1bcc.chunk.css.map": "/static/css/main.38cf1bcc.chunk.css.map",
-    "static/js/2.eab6bace.chunk.js.LICENSE.txt": "/static/js/2.eab6bace.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/weather-full-11.2e3dd3ef.jpg"
+    "main.css": "/weather-app/static/css/main.c880812a.chunk.css",
+    "main.js": "/weather-app/static/js/main.e0551201.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.e0551201.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.2154fcb3.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.2154fcb3.js.map",
+    "static/js/2.eab6bace.chunk.js": "/weather-app/static/js/2.eab6bace.chunk.js",
+    "static/js/2.eab6bace.chunk.js.map": "/weather-app/static/js/2.eab6bace.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.9b0abd55d0ba68f940ce4c7879c4fa93.js": "/weather-app/precache-manifest.9b0abd55d0ba68f940ce4c7879c4fa93.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.c880812a.chunk.css.map": "/weather-app/static/css/main.c880812a.chunk.css.map",
+    "static/js/2.eab6bace.chunk.js.LICENSE.txt": "/weather-app/static/js/2.eab6bace.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-app/static/media/weather-full-11.2e3dd3ef.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc937f93.js",
+    "static/js/runtime-main.2154fcb3.js",
     "static/js/2.eab6bace.chunk.js",
-    "static/css/main.38cf1bcc.chunk.css",
+    "static/css/main.c880812a.chunk.css",
     "static/js/main.e0551201.chunk.js"
   ]
 }
